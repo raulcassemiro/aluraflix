@@ -3,6 +3,9 @@ body {
     background: black;
 }
 
+header  {
+    border-bottom: solid rgb(red, green, blue);42, 122, 228;
+}
 
 
 
