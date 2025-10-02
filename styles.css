@@ -2,17 +2,18 @@ body {
     color: white;
     background: black;
     margin: 0px; 
-
-
-
-header  {
-    border-bottom: solid rgb(red, green, blue);42, 122, 228;
 }
 
+header  {
+        border-bottom: solid rgb(21, 89, 177);
+        padding: 20px;
+        font-size: 32px;
+        color:  rgb(42, 122, 228);
+}
 
-
-
-
+section {
+     backgraund: rgb(184,156,213);
+}
 
 
 
