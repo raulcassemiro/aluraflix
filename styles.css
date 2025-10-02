@@ -1,7 +1,9 @@
 body {
     color: white;
     background: black;
-}
+    margin: 0px; 
+
+
 
 header  {
     border-bottom: solid rgb(red, green, blue);42, 122, 228;
